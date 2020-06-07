@@ -1,0 +1,382 @@
+in the previous lecture I explained the
+
+common base configuration of transistor
+
+now I will explain the early effect the
+
+early effect and by using this we will
+
+plot the input characteristics of common
+
+base transistor the input
+
+characteristics is simply the
+
+characteristics of forward bias diode it
+
+is the characteristics of the forward
+
+biased diode I will explain this point
+
+it is the graphical relation between the
+
+input current and the input voltage for
+
+different values of output voltage it is
+
+the graphical relation between the input
+
+current and the input voltage input
+
+voltage for different for different
+
+output voltages this is what we have in
+
+input characteristics of common base
+
+transistor this is the common base
+
+configuration of the transistor I am
+
+using NPN transistor this is emitter
+
+this is base and this is collector and
+
+we already know in case of NPN
+
+transistor this is the direction of
+
+emitter current ie this is the direction
+
+of base current IB and this is the
+
+direction of collector current IC
+
+I am considering the active mode of
+
+operation so Junction j1 is forward
+
+biased and Junction j2 is reverse biased
+
+this potential difference is equal to V
+
+B II and this potential difference is
+
+equal to VC B I am calling this
+
+configuration common base configuration
+
+because base is common to the input side
+
+and the output side on the input side
+
+the current is ie and the voltage is vbe
+
+so the input current the input current
+
+is simply equal to IE the emitter
+
+current and the input voltage is equal
+
+to vbe the input voltage is equal to vbe
+
+on the output side the current is IC so
+
+the output current is equal to IC the
+
+collector current and VC B is the output
+
+voltage
+
+output voltage is VC B so we have to
+
+plot we have to plot the graphical
+
+relation between ie and vbe for
+
+different values of vc beam now I will
+
+prove the input characteristics of
+
+common base transistor is similar to the
+
+characteristics of forward bias diode I
+
+have already told you we can consider
+
+transistor as two diodes connected back
+
+to back we have NPN transistor so we
+
+have two diodes connected like this this
+
+is an P this is P and so this is like
+
+NPN transistor this is diode d1
+
+this is diode d2 in active mode of
+
+operation diode d1 is forward biased and
+
+diode d2 is reverse biased and we are
+
+plotting the input characteristics input
+
+characteristics is between the input
+
+current and the input voltage for
+
+different values of output voltage the
+
+input current is ie the input voltage is
+
+vbe which is the current and voltage
+
+through and across the diode d1 so we
+
+are simply plotting the forward biased
+
+characteristics of a diode and it is
+
+very simple we can easily plot the
+
+forward biased characteristics for a
+
+diode this axis is for current that is I
+
+II in milliamps the x-axis is for the
+
+voltage across the diode that is v-b-e
+
+and it is measured in volts and the
+
+forward characteristics will simply look
+
+like this let's say the barrier
+
+potential is equal to 0.7 volts because
+
+we are considering silicon as the
+
+semiconductor material we are
+
+considering the silicon diode so barrier
+
+potential is equal to 0.7 volts and this
+
+is the forward bias characteristics of a
+
+diode and this is also the input
+
+characteristics of common base
+
+transistor but the important thing is
+
+the effect on characteristics with
+
+change in VCB let's say this plot is for
+
+VC
+
+II equal to 1 Bowles and now we have to
+
+study the effect on characteristics when
+
+we increase or decrease the output
+
+voltage that is VC being to understand
+
+this effect we first need to understand
+
+the early effect we first need to study
+
+the early effect the early effect very
+
+important concept in analog electronics
+
+this effect is also known as base width
+
+modulation this is also known as base
+
+width modulation and it is named after
+
+James M early after James M early who
+
+discovered early effect in early effect
+
+there is modulation of base width when
+
+we increase the reverse bias voltage VC
+
+B when we increase the reverse bias
+
+voltage VC B there is modulation of base
+
+width this is emitter region this is
+
+base region and this is collector region
+
+Junction j1 is forward biased Junction
+
+j2 is reverse biased and in reverse bias
+
+condition width of depletion layer width
+
+of depletion layer increases and the
+
+depletion layer will penetrate more in
+
+the base region because it is lightly
+
+doped because of light doping hole
+
+concentration is low and easy uncovering
+
+of immobile ions will take place you can
+
+see penetration of depletion layer is
+
+more in base region and this is because
+
+base is lightly doped the depletion
+
+layer will have the negative immobile
+
+ions on the base side because we are
+
+considering an PN transistor and it will
+
+have positive immobile ions on the
+
+collector side because collector is
+
+n-type material let's say let's say W be
+
+W sub B is width of base width of base
+
+or we can call it metallurgical base
+
+width the total width of base region is
+
+equal to W sub B W sub B and let's say
+
+the width of depletion layer
+
+penetrated in the base region is equal
+
+to W and the width of region with no
+
+depletion layer is equal to W effective
+
+from here we can see W B is equal to W
+
+effective W effective plus W so we can
+
+say that W effective is equal to WB
+
+minus W now if we increase VC B the
+
+output voltage or the reverse bias
+
+potential W will increase on increasing
+
+VC B on increasing VC B W will increase
+
+because penetration of depletion layer
+
+will increase in the base region and
+
+when W increases W effective will
+
+decrease W effective will decrease W
+
+effective is the width of region where
+
+recombination takes place this is the
+
+region where recombination takes place
+
+and width of this region is equal to W
+
+effective so when W effective decreases
+
+the chance of recombination in base
+
+region also decreases and this will
+
+increase the input current ie as the
+
+chance of recombination is reducing the
+
+IE will increase the base was thin and
+
+because of penetration of depletion
+
+layer it is now thinner so chance of
+
+recombination reduces and the input
+
+current ie increases the other reason is
+
+increase in concentration gradient the
+
+other reason is increase in
+
+concentration gradient because of
+
+decrement in W effective the
+
+concentration gradient is the main
+
+reason for the movement of charge
+
+carriers the electrons on the N side
+
+will move towards the base because of
+
+concentration gradient as the area is
+
+decreasing the concentration will
+
+definitely increase and because of this
+
+more electrons will flow towards the
+
+base and this will also increase the
+
+input current ie
+
+so we can say that on increasing VC B
+
+the output voltage on increasing VC B
+
+the output voltage the input current
+
+will increase so the final character
+
+stakes including the effect of VCB will
+
+look like this the current ie will
+
+increase with increase in VCB like this
+
+this plot is for VC be equal to 5 volts
+
+VC be equal to 5 volts and this plot is
+
+for VC be equal to 10 volts so with
+
+increase in VC be the input current ie
+
+will also increase and the remaining
+
+thing is similar to the forward bias
+
+characteristics of PN Junction diode I
+
+hope everything explained in this
+
+lecture is clear to you I will end this
+
+lecture here see you in the next one
+

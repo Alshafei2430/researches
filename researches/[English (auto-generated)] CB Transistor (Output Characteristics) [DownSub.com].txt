@@ -1,0 +1,278 @@
+in the previous lecture I explained the
+
+early effect and we obtained the input
+
+characteristics of common base
+
+transistor in this lecture we will
+
+obtain the output characteristics of
+
+common base transistor it is the
+
+graphical relation between the output
+
+current and the output voltage for
+
+various levels of input current the
+
+output characteristics is the graphical
+
+relation between the output current
+
+between the output current and the
+
+output voltage output voltage for
+
+various levels off for various levels of
+
+input current levels of input current if
+
+you see the common base configuration of
+
+transistor you will find IC is the
+
+output current and VC B is the output
+
+voltage so output current is I see the
+
+collector current and output voltage is
+
+VC B VC B and the input current is ie
+
+the emitter current
+
+so we have to plot the graphical
+
+relation between the collector current
+
+IC voltage VC B for various levels of
+
+ammeter current ie if we consider this
+
+NPN transistor as two diodes connected
+
+back to back it will look something like
+
+this this is the first diode and this is
+
+the second diode we want to plot the
+
+output characteristics of common base
+
+transistor in active region so the first
+
+diode is forward biased and the second
+
+diode is reverse biased current through
+
+the second diode is IC the collector
+
+current and voltage across this diode is
+
+equal to VC B voltage across this diode
+
+is equal to VC B so the output
+
+characteristics is simply is simply the
+
+reverse bias characteristics of diode
+
+very simple you can see this diode is
+
+reverse biased the current is IC the
+
+same current has an output
+
+characteristics and the voltage across
+
+the diode is equal to VC be the same
+
+voltage so the output characteristics of
+
+common base transistor is simply the
+
+reverse bias characteristics of PN
+
+Junction diode the x-axis will represent
+
+VC B and the y axis will represent IC IC
+
+is measured in milliamps and VC B is
+
+measured in volts the plot is very
+
+simple it will be simply the reverse
+
+bias characteristics of diode but the
+
+important thing is variation of the plot
+
+for different levels of input current
+
+that is high E and we already know we
+
+already know the collector current IC is
+
+equal to alpha times ie plus I CBO where
+
+I CBO is the reverse saturation current
+
+or leakage current I CBO is very small
+
+as compared to alpha times ie so we can
+
+neglect I CBO and IC is nearly equal to
+
+alpha times I
+
+you can also see in this first equation
+
+there is no VC beam so this is
+
+independent independent of VC B now we
+
+can consider the collector current IC
+
+nearly equal to the emitter current ie
+
+because alpha is from zero point nine
+
+five two zero point nine eight which is
+
+nearly equal to one so we can see that
+
+the collector current is equal to the
+
+emitter current so the output current
+
+the output current is affected
+
+tremendously by the input current when
+
+input current the emitter current is
+
+equal to zero milliamps then the output
+
+current is nearly equal to zero
+
+milliamps this is small current this a
+
+small current is icbo
+
+the reverse saturation current when IE
+
+is equal to zero IC is equal to i CBO
+
+this is when IE
+
+is equal to zero milliamps when IE is
+
+equal to let's say five milliamps high e
+
+is equal to five milliamps the collector
+
+current is nearly equal to five
+
+milliamps and the plot will look like
+
+this in the same way when emitter
+
+current ie is equal to ten milliamps the
+
+collector current is nearly equal to ten
+
+milliamps and the plot will look like
+
+this so this is the output
+
+characteristics of the common base
+
+transistor and this region this region
+
+is called active region active region
+
+and this region here is called
+
+saturation region and the region below
+
+ie equal to zero milliamps is called
+
+cutoff region now there is one very
+
+important thing that I want to explain
+
+you what will happen if we go on
+
+increasing VC B what will happen if we
+
+go on increasing the reverse bias
+
+potential there will be breakdown we
+
+already know in reverse bias condition
+
+if we increase the reverse bias
+
+potential after some time there will be
+
+breakdown and the current will increase
+
+rapidly so if we increase VCB the point
+
+will come when there will be breakdown
+
+and the current will increase rapidly
+
+but this situation never arises because
+
+transistor cannot withstand the high
+
+power being dissipated so this situation
+
+will never arise now if you invert this
+
+plot you will find it is similar to the
+
+reverse biased characteristics of PN
+
+Junction diode you can see this plot is
+
+similar to the reverse bias
+
+characteristics of PN Junction diode the
+
+next thing is the cutoff region in
+
+cutoff region both the diodes are
+
+reverse biased and transistor will
+
+remain off when transistor operates in
+
+this region we can consider transistor
+
+as open switch or logical off in
+
+saturation region both the diodes are
+
+forward biased and we can consider
+
+transistor as closed switch or logical
+
+on you can see collector current IC it
+
+starts to reduce and become zero in
+
+saturation region and this is how we
+
+have to plot the output characteristics
+
+of common base transistor if you have
+
+any doubt you may ask in the comment
+
+section I will end this lecture here see
+
+on the next one
+
